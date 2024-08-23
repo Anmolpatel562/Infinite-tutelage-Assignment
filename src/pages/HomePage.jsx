@@ -33,7 +33,7 @@ const HomePage = () => {
     setShowNavbar(true);
     setTimeout(() => {
       setShowNavbar(false);
-    }, 2000);
+    }, 4000);
   };
 
   return (
